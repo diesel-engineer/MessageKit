@@ -153,7 +153,7 @@ UICollectionViewDelegateFlowLayout, UICollectionViewDataSource {
 
     private func setupDelegates() {
         messagesCollectionView.delegate = self
-        messagesCollectionView.dataSource = self
+//        messagesCollectionView.dataSource = self
     }
 
     private func setupSubviews() {
